@@ -7,7 +7,7 @@ Open engineering, shared tools and public hackathon projects from NDDev.
 - [GitHub Device Sync](https://github.com/NDDev-Technocracy-OpenNetwork/github-device-sync) — repository policy, agent context and reproducible Git workflows.
 - [CI workflows](https://github.com/NDDev-Technocracy-OpenNetwork/ci-workflows) — pinned reusable build and security checks.
 - [Sysinfo](https://github.com/NDDev-Technocracy-OpenNetwork/rldyour-sysinfo) — system information tooling.
-- [NDS](https://github.com/NDDev-OpenNetwork-NDS) — the separate organization for open device synchronization development.
+- [NDS](https://github.com/NDDev-Technocracy-OpenNetwork-NDS) — the separate organization for open device synchronization development.
 
 ## Hackathons
 
