@@ -1,22 +1,24 @@
 schema_version: 1
 repository:
   id: repo_01M2DB2M1QQ9WVFQ6HE2BRYJJ0
-  display_name: NDDev Open Network community standards
+  display_name: opennetwork-community-20261014
   roles:
   - docs
-  lifecycle: active
+  lifecycle: archived
 provider:
   type: github
-  installation: installation:github-nddev-technocracy-opennetwork
+  installation: installation:github-nddev-technocracy-archive
   repository_id: 1332430907
-  owner: NDDev-Technocracy-OpenNetwork
-  name: .github
+  owner: NDDev-Technocracy-Archive
+  name: opennetwork-community-20261014
   aliases:
+  - owner: NDDev-Technocracy-OpenNetwork
+    name: .github
   - owner: NDDev-Technocracy-Sandbox
     name: .github
 classification:
   portfolios:
-  - portfolio:nddev-technocracy-opennetwork
+  - portfolio:nddev-technocracy-archive
   visibility_contract: public
   data_classification: public
 product:
