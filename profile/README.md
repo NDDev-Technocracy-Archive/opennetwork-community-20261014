@@ -25,7 +25,6 @@ Event projects use `hack-<year>-<event>`; a product or team suffix distinguishes
 | [hack-2025-dosie](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2025-dosie) | Dosie 2025 hackathon demo: investor-network visualization and jury profiles with interactive D3.js graphs. |
 | [hack-2025-lct-moscow](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2025-lct-moscow) | LCT Moscow 2025 hackathon prototype: distributed data ingestion, generated DDL/ETL and storage pipelines. FastAPI + React. |
 | [hack-2026-nornickel-mvp](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2026-nornickel-mvp) | Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB. |
-| [hack-2026-lct-fsp](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2026-lct-fsp) | LCT 2026 FSP hackathon: Career reverse-hiring platform with assessments, anonymous profiles and employer offers. Rust + React. |
 | [hack-2026-hackalem-saint-tibo](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2026-hackalem-saint-tibo) | HackAlem 2026, Saint Tibo: Khattama meeting-to-minutes prototype with speech, speaker attribution, tasks and PDF/DOCX export. |
 
 Saint Tibo's working showcase is the public fork of the original BAITC HackAlem repository. Legacy private consolidation artifacts remain outside the public catalog.
