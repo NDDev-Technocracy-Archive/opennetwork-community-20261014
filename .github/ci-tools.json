@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "assets": [
+    {
+      "repository": "lycheeverse/lychee",
+      "asset": 409959156,
+      "tag": "lychee-v0.24.2",
+      "name": "lychee-x86_64-unknown-linux-gnu.tar.gz",
+      "file": "lychee-x86_64-unknown-linux-gnu.tar.gz",
+      "size": 7626970,
+      "sha256": "1f4e0ef7f6554a6ed33dd7ac144fb2e1bbed98598e7af973042fc5cd43951c9a",
+      "members": [
+        {
+          "path": "lychee-x86_64-unknown-linux-gnu/lychee",
+          "file": "lychee",
+          "size": 19827680,
+          "sha256": "87e6e75195df5753f08c53b5c0a13694b8328edd8df009914ae9e29b5000162d",
+          "executable": true
+        }
+      ]
+    },
+    {
+      "repository": "rhysd/actionlint",
+      "asset": 384924896,
+      "size": 2353908,
+      "sha256": "8aca8db96f1b94770f1b0d72b6dddcb1ebb8123cb3712530b08cc387b349a3d8",
+      "file": "actionlint_1.7.12_linux_amd64.tar.gz",
+      "members": [
+        {
+          "path": "actionlint",
+          "size": 6074530,
+          "sha256": "c872d6db8c6bf83a8eaa704fc93999f027d55dffbc63b8a6abdccb47df5f4cd4",
+          "file": "actionlint",
+          "executable": true
+        }
+      ]
+    },
+    {
+      "repository": "gitleaks/gitleaks",
+      "asset": 378332058,
+      "size": 8230402,
+      "sha256": "551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb",
+      "file": "gitleaks_8.30.1_linux_x64.tar.gz",
+      "members": [
+        {
+          "path": "gitleaks",
+          "size": 21958840,
+          "sha256": "88f91962aa2f93ac6ab281d553b9e125f5197bbbce38f9f2437f7299c32e5509",
+          "file": "gitleaks",
+          "executable": true
+        }
+      ]
+    }
+  ]
+}
