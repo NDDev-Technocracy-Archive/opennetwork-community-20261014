@@ -4,10 +4,13 @@ set shell := ["bash", "-euo", "pipefail", "-c"]
 default:
     @just --list
 
-# Validate command formatting and all tracked Markdown file links without network access.
+# Check local Markdown links, workflows and Git history without network access.
 check:
     just --fmt --check
     git ls-files -z -- '*.md' | xargs -0 lychee --offline --no-progress
+    actionlint
+    zizmor --offline --no-progress .github
+    gitleaks git --no-banner --redact .
 
 # Run the complete source-only validation.
 verify: check

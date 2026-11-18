@@ -12,7 +12,7 @@ their current collaboration contracts; this snapshot changes no live organizatio
 - [Security](SECURITY.md)
 - [Support](SUPPORT.md)
 
-Run `just check` for command formatting and tracked local Markdown links.
+Run `just check` for command formatting, local Markdown links, workflow lint and the Git history scan.
 `just verify` runs the complete source-only check after integration. The workflow
 and security gates use the released shared CI. No application test, build,
 release/package publication or installed-profile behavior is claimed.
